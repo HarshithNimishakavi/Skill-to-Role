@@ -1,0 +1,33 @@
+{
+  "harshithnimishakavi2006@gmail.com": {
+    "salt": "7ea11918599dcca75599ed4e69ee00c3",
+    "password_hash": "11a32a259f38fa5bf7db36be81e2d09274cc876bc1a8e45982f96525e30f03bc",
+    "name": "N S S HARSHITH",
+    "assignment_history": [
+      {
+        "assignment": "Python",
+        "score": 40.0,
+        "skill_level": "Beginner",
+        "completed_at": "30 Oct 2026, 02:04 PM"
+      },
+      {
+        "assignment": "Python",
+        "score": 100.0,
+        "skill_level": "Beginner",
+        "completed_at": "30 Oct 2026, 02:11 PM"
+      },
+      {
+        "assignment": "Python",
+        "score": 100.0,
+        "skill_level": "Beginner",
+        "completed_at": "30 Oct 2026, 02:11 PM"
+      },
+      {
+        "assignment": "Sql",
+        "score": 80.0,
+        "skill_level": "Beginner",
+        "completed_at": "30 Oct 2026, 02:12 PM"
+      }
+    ]
+  }
+}
